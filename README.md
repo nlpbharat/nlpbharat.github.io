@@ -1,2 +1,2 @@
-# List of NLP Faculties in Indian Universities
+# NLP Faculties in Indian Universities
 
