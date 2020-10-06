@@ -1,13 +1,13 @@
 ## Indian Institute of Technology Bombay (IITB)
 
-### [Preethi Jyothi](https://www.cse.iitb.ac.in/~pjyothi/), [CSALT lab](https://www.cse.iitb.ac.in/~pjyothi/csalt/), [GScholar](https://scholar.google.com/citations?user=QN_uhu8AAAAJ&hl=en), [twitter]()
-* Research Areas: 
+* [Preethi Jyothi](https://www.cse.iitb.ac.in/~pjyothi/), [CSALT lab](https://www.cse.iitb.ac.in/~pjyothi/csalt/), [GScholar](https://scholar.google.com/citations?user=QN_uhu8AAAAJ&hl=en), [twitter]()
+  * Research Areas: 
 
-### [Ganesh Ramakrishnan](https://www.cse.iitb.ac.in/~ganesh/), [CFILT](http://www.cfilt.iitb.ac.in/index.html), [GScholar](https://scholar.google.com/citations?user=W1ZpREMAAAAJ&hl=en), [twitter]()
-* Research Areas: 
+* [Ganesh Ramakrishnan](https://www.cse.iitb.ac.in/~ganesh/), [CFILT](http://www.cfilt.iitb.ac.in/index.html), [GScholar](https://scholar.google.com/citations?user=W1ZpREMAAAAJ&hl=en), [twitter]()
+  * Research Areas: 
 
-### [Pushpak Bhattacharyya](https://www.cse.iitb.ac.in/~ganesh/), [Cognitive NLP lab](http://www.cfilt.iitb.ac.in/cognitive-nlp/), [GScholar](https://scholar.google.com/citations?user=vvg-pAkAAAAJ&hl=en), [twitter]()
-* Research Areas: 
+* [Pushpak Bhattacharyya](https://www.cse.iitb.ac.in/~ganesh/), [Cognitive NLP lab](http://www.cfilt.iitb.ac.in/cognitive-nlp/), [GScholar](https://scholar.google.com/citations?user=vvg-pAkAAAAJ&hl=en), [twitter]()
+  * Research Areas: 
 
 ## International Institute of Information Technology, Hyderabad (IIITH)
 
