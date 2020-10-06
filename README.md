@@ -38,3 +38,5 @@
 ## Indian Institute of Technology Bhubaneswar (IITBBS)
 
 # To update the list please add details [here](https://docs.google.com/spreadsheets/d/10QqjzC6YwgJaMrumrLFdzNt1hDFZX9q57k5VFPCi5jg/edit?usp=sharing) or send a [pull](https://github.com/nlpbharat/) request. 
+
+## Maintained by [Ravi][http://shekharravi.github.io/]
