@@ -11,7 +11,7 @@
 
 ## International Institute of Information Technology, Hyderabad (IIITH)
 
-## Indraprastha Institute of Information Technology Delhi (IITD)
+## Indraprastha Institute of Information Technology Delhi (IIITD)
 
 ## Indian Institute of Technology Delhi (IITD)
 
