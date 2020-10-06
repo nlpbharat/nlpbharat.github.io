@@ -73,6 +73,16 @@
 
 ## Indian Institute of Technology Madras (IITM)
 
+* [Sutanu Chakraborti](https://www.cse.iitm.ac.in/~sutanuc/), [AIDB Lab](http://aidblab.cse.iitm.ac.in/new/), [GScholar](), [twitter]()
+  * Research Areas: computational models of language, memory and learning
+
+* [Balaraman Ravindran](http://www.cse.iitm.ac.in/~ravi/index.html), [RBC-DSAI](https://rbcdsai.iitm.ac.in/), [GScholar](https://scholar.google.co.in/citations?hl=en&user=nGUcGrYAAAAJ), [twitter](https://twitter.com/ravi_iitm)
+  * Research Areas: Spatio-temporal Abstractions in Reinforcement Learning,  Social network analysis and Data/Text Mining
+
+* [Mitesh M. Khapra](http://www.cse.iitm.ac.in/~miteshk/), [RBC-DSAI](https://rbcdsai.iitm.ac.in/), [GScholar](https://scholar.google.co.in/citations?user=DV8z8DYAAAAJ&hl=en), [twitter](https://twitter.com/MiteshKhapra)
+  * Research Areas: Natural Language Generation, Conversation Systems, Question Answering, Multimodal Processing
+  
+
 ## Indian Institute of Technology Kharagpur (IITKGP)
 
 ## Indian Institute of Technology Guwahati (IITG)
