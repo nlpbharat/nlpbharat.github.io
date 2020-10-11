@@ -94,25 +94,30 @@
  * [Animesh Mukherjee](http://cse.iitkgp.ac.in/~animeshm/), [lab](), [GScholar](https://scholar.google.com/citations?user=lf7-deEAAAAJ&hl=en), [twitter]()
     * Research Areas: complex system, human language evolution and change, natural language processing.
 
-## Indian Institute of Technology Guwahati (IITG)
-
+## Indian Institute of Technology Gandhinagar (IITGN)
   * [Mayank Singh](https://mayank4490.github.io/), [LINGO](https://labs.iitgn.ac.in/lingo/), [GScholar](https://scholar.google.com/citations?user=U2NUj90AAAAJ&hl=en), [twitter](https://twitter.com/mayank_iitgn)
     * Research Areas: Natural Language Processing, Text Mining, Information Retrieval, and Evolving Large-scale Networks
 
 ## Indian Institute of Technology Ropar (IITRPR)
 
-## Indian Institute of Technology Jodhpur (IITJ)
+  * [Somdev Kar](https://www.iitrpr.ac.in/humaities/somdevkar), [lab](), [GScholar](), [twitter]()
+     * Research Areas: Phonetics, Phonology (Optimality Theory), Morphology, Speech Processing, Natural Language Processing (NLP), Forensic Linguistics
 
-## Indian Institute of Technology Gandhinagar (IITGN)
+## Indian Institute of Technology Jodhpur (IITJ)
+  * [Romi Banerjee](https://sites.google.com/site/romibitsnbob/home?authuser=0), [lab](), [GScholar](https://scholar.google.co.in/citations?hl=en&user=BiSvmeMAAAAJ), [twitter]()
+    * Research Areas: 
+
+## Indian Institute of Technology Guwahati (IITG)
+  * [Ashish Anand](http://www.iitg.ac.in/anand.ashish/index.html), [lab](), [GScholar](https://scholar.google.co.in/citations?user=W7nidBQAAAAJ&hl=en&oi=ao), [twitter](https://twitter.com/anand_ashish)
+    * Research Areas: Natural Language Processing (NLP), Biomedical Text Mining, Computational Biology, Deep Learning
+  * [Sanasam Ranbir Singh](http://www.iitg.ac.in/cse/internet-pages/ranbir), [lab](), [GScholar](), [twitter]()
+    * Research Areas: Open Source Intelligence (Social Media/Social Network Analysis), Information Retrieval, NLP
 
 ## Indian Institute of Technology Hyderabad (IITH)
-
-## Indian Institute of Technology Bhubaneswar (IITBBS)
-
 
 * [Name](), [lab](), [GScholar](), [twitter]()
   * Research Areas: 
 
-# To update the list please add details [here](https://docs.google.com/spreadsheets/d/10QqjzC6YwgJaMrumrLFdzNt1hDFZX9q57k5VFPCi5jg/edit?usp=sharing) or send a [pull](https://github.com/nlpbharat/) request. 
+# To update the list please add details [here](https://docs.google.com/spreadsheets/d/10QqjzC6YwgJaMrumrLFdzNt1hDFZX9q57k5VFPCi5jg/edit?usp=sharing) or send a [pull](https://github.com/nlpbharat/nlpbharat.github.io) request. 
 
 ## Maintained by [Ravi](http://shekharravi.github.io/)
