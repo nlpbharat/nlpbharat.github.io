@@ -28,7 +28,7 @@
 
 ## Indraprastha Institute of Information Technology Delhi (IIITD)
 
-* [Rajiv Ratn Shah](https://www.iiitd.edu.in/~rajivratn/), [MIDAS](http://midas.iiitd.edu.in/), [GScholar](https://scholar.google.com/citations?user=WAChZv4AAAAJ&hl=en&authuser=1), [twitter]()
+* [Rajiv Ratn Shah](https://www.iiitd.edu.in/~rajivratn/), [MIDAS](http://midas.iiitd.edu.in/), [GScholar](https://scholar.google.com/citations?user=WAChZv4AAAAJ&hl=en&authuser=1), [twitter](https://twitter.com/RatnRajiv)
   * Research Areas: Multimedia systems, AI in healthcare, natural language processing, computer vision, deep neural networks
 
 * [Tanmoy Chakraborty](http://faculty.iiitd.ac.in/~tanmoy/), [LCS2](http://lcs2.iiitd.edu.in/), [GScholar](https://scholar.google.com/citations?hl=en&authuser=1&user=C5S9JnIAAAAJ), [twitter](https://twitter.com/Tanmoy_Chak)
