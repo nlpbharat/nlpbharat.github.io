@@ -118,6 +118,6 @@
 * [Name](), [lab](), [GScholar](), [twitter]()
   * Research Areas: 
 
-# To update the list please add details [here](https://docs.google.com/spreadsheets/d/10QqjzC6YwgJaMrumrLFdzNt1hDFZX9q57k5VFPCi5jg/edit?usp=sharing) or send a [pull](https://github.com/nlpbharat/nlpbharat.github.io) request. 
+# To update the list please the [form](https://docs.google.com/forms/d/e/1FAIpQLSfFxwkHgBnjzppLYAZy3HgJy21yu20Fx95q52b7CpzjMOxL-g/viewform) or send a [pull](https://github.com/nlpbharat/nlpbharat.github.io) request. 
 
 ## Maintained by [Ravi](http://shekharravi.github.io/)
