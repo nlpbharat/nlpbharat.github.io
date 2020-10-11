@@ -81,11 +81,23 @@
 
 * [Mitesh M. Khapra](http://www.cse.iitm.ac.in/~miteshk/), [RBC-DSAI](https://rbcdsai.iitm.ac.in/), [GScholar](https://scholar.google.co.in/citations?user=DV8z8DYAAAAJ&hl=en), [twitter](https://twitter.com/MiteshKhapra)
   * Research Areas: Natural Language Generation, Conversation Systems, Question Answering, Multimodal Processing
-  
+
+## Indian Institute of Science (IISc), Bangalore 
+
+  * [Partha Pratim Talukdar](https://talukdar.net/), [MALL lab](http://malllabiisc.github.io/), [GScholar](https://scholar.google.com/citations?hl=en&user=CIZwXAcAAAAJ&view_op=list_works&pagesize=100), [twitter](https://twitter.com/partha_p_t)
+    * Research Areas: Natural Language Processing, Machine Learning, and Knowledge Graphs 
 
 ## Indian Institute of Technology Kharagpur (IITKGP)
+  * [Pawan Goyal](https://cse.iitkgp.ac.in/~pawang/), [lab](), [GScholar](https://scholar.google.com/citations?user=F14FHsIAAAAJ&hl=en), [twitter]()
+     * Research Areas: Text Mining, Natural Language Processing, Information Retrieval and Sanskrit Computational Linguistics
+
+ * [Animesh Mukherjee](http://cse.iitkgp.ac.in/~animeshm/), [lab](), [GScholar](https://scholar.google.com/citations?user=lf7-deEAAAAJ&hl=en), [twitter]()
+    * Research Areas: complex system, human language evolution and change, natural language processing.
 
 ## Indian Institute of Technology Guwahati (IITG)
+
+  * [Mayank Singh](https://mayank4490.github.io/), [LINGO](https://labs.iitgn.ac.in/lingo/), [GScholar](https://scholar.google.com/citations?user=U2NUj90AAAAJ&hl=en), [twitter](https://twitter.com/mayank_iitgn)
+    * Research Areas: Natural Language Processing, Text Mining, Information Retrieval, and Evolving Large-scale Networks
 
 ## Indian Institute of Technology Ropar (IITRPR)
 
