@@ -87,6 +87,10 @@
   * [Partha Pratim Talukdar](https://talukdar.net/), [MALL lab](http://malllabiisc.github.io/), [GScholar](https://scholar.google.com/citations?hl=en&user=CIZwXAcAAAAJ&view_op=list_works&pagesize=100), [twitter](https://twitter.com/partha_p_t)
     * Research Areas: Natural Language Processing, Machine Learning, and Knowledge Graphs 
 
+
+ * [Danish Pruthi](https://danishpruthi.com/), [Computational and Data Sciences (CDS)](https://cds.iisc.ac.in/), [GScholar](https://scholar.google.com/citations?user=JpSx3EMAAAAJ&hl=en&oi=ao), [twitter](https://twitter.com/danish037)
+    * Research Areas: Natural Language Processing, Inclusive Evaluation, Model Control
+    * 
 ## Indian Institute of Technology Kharagpur (IITKGP)
   * [Pawan Goyal](https://cse.iitkgp.ac.in/~pawang/), [lab](), [GScholar](https://scholar.google.com/citations?user=F14FHsIAAAAJ&hl=en), [twitter]()
      * Research Areas: Text Mining, Natural Language Processing, Information Retrieval and Sanskrit Computational Linguistics
