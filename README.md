@@ -117,6 +117,11 @@
   * [Sanasam Ranbir Singh](http://www.iitg.ac.in/cse/internet-pages/ranbir), [lab](), [GScholar](), [twitter]()
     * Research Areas: Open Source Intelligence (Social Media/Social Network Analysis), Information Retrieval, NLP
 
+## Indian Institute of Technology Dharwad (IITDH)
+  * [Konjengbam Anand](https://sites.google.com/view/drkonjengbamanand?pli=1), [lab](https://ema.iitdh.ac.in/), [GScholar](https://scholar.google.com/citations?user=OpK0OmcAAAAJ&hl=en), [twitter](https://twitter.com/anand_ashish)
+    * Research Areas: Natural Language Processing (NLP), Sentiment Analysis, Machine Translation, AI chatbots, Information Management
+
+
 ## Indian Institute of Technology Hyderabad (IITH)
 
 * [Name](), [lab](), [GScholar](), [twitter]()
