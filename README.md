@@ -90,7 +90,7 @@
 
  * [Danish Pruthi](https://danishpruthi.com/), [Computational and Data Sciences (CDS)](https://cds.iisc.ac.in/), [GScholar](https://scholar.google.com/citations?user=JpSx3EMAAAAJ&hl=en&oi=ao), [twitter](https://twitter.com/danish037)
     * Research Areas: Natural Language Processing, Inclusive Evaluation, Model Control
-    * 
+  
 ## Indian Institute of Technology Kharagpur (IITKGP)
   * [Pawan Goyal](https://cse.iitkgp.ac.in/~pawang/), [lab](), [GScholar](https://scholar.google.com/citations?user=F14FHsIAAAAJ&hl=en), [twitter]()
      * Research Areas: Text Mining, Natural Language Processing, Information Retrieval and Sanskrit Computational Linguistics
@@ -118,7 +118,7 @@
     * Research Areas: Open Source Intelligence (Social Media/Social Network Analysis), Information Retrieval, NLP
 
 ## Indian Institute of Technology Dharwad (IITDH)
-  * [Konjengbam Anand](https://sites.google.com/view/drkonjengbamanand?pli=1), [lab](https://ema.iitdh.ac.in/), [GScholar](https://scholar.google.com/citations?user=OpK0OmcAAAAJ&hl=en), [twitter](https://twitter.com/anand_ashish)
+  * [Konjengbam Anand](https://sites.google.com/view/drkonjengbamanand?pli=1), [EMA lab](https://ema.iitdh.ac.in/), [GScholar](https://scholar.google.com/citations?user=OpK0OmcAAAAJ&hl=en), [twitter](https://twitter.com/anand_ashish)
     * Research Areas: Natural Language Processing (NLP), Sentiment Analysis, Machine Translation, AI chatbots, Information Management
 
 
