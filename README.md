@@ -1,8 +1,5 @@
----
-layout: default
----
 
-# NLP Professors in Indian Universities
+## NLP Professors in Indian Universities
 
 
 
